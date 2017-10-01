@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+$primary: #007bff;
+
+html, body {
+    height: 100%;
+}
+h1 {
+    color: $primary;
+}
+.app-container {
+    padding: 40px;
+    .content {
+        padding: 20px;
+    }
+}
+.player-not-found {
+    padding: 20px;
+    text-align: center;
+    color: red;
+}
