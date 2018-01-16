@@ -4,7 +4,7 @@ Just a simple project with Angular, Bootstrap, NgStore, RxJS to retrieve data fr
 
 Fork it and run 'ng s', and you'll see:
 
-
+![Front Image](https://github.com/diegotham/angular-nba-stats/blob/master/front_image.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
