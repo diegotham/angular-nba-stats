@@ -1,4 +1,10 @@
-# Nba
+# Nba Stats
+
+Just a simple project with Angular, Bootstrap, NgStore, RxJS to retrieve data from the NBA stats API.
+
+Fork it and run 'ng s', and you'll see:
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
