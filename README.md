@@ -1,8 +1,8 @@
 # Nba Stats
 
-Just a simple project with Angular, Bootstrap, NgStore, RxJS to retrieve data from the NBA stats API.
+Just a simple project with Angular 5, Bootstrap 4, NgStore, RxJS, to retrieve data from the NBA stats API.
 
-Fork it and run 'ng s', and you'll see:
+Run 'ng s', and you'll see:
 
 ![Front Image](https://github.com/diegotham/angular-nba-stats/blob/master/front_image.png)
 
