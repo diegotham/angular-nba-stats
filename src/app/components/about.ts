@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
         <h1>About NBA Statistics</h1>
         <h3>Sample project in Angular4 interacting with NBA stats</h3>
         <p>
-        Made by <a target="_blank" href="https://diego.com.es">Diego Lázaro</a>
+        Made by <a target="_blank" href="https://github.com/diegotham">Diego</a>
         </p>
     </div>
     `
